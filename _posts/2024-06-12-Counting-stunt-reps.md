@@ -21,8 +21,8 @@ Most of the session we did a variety of stunt sequences. Including a combination
 
 The stats:
 - Grand total: 69
-    - Stunt sequences: 31
-    - FHSU drills: 38
+    - Stunt sequences: 38
+    - FHSU drills: 31
 
 
 # Towards the solution
