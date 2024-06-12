@@ -13,3 +13,6 @@ Now, I channel that passion into my work, utilizing engineering to delve deeper 
 📫 Hit me up if you feel like it! 
 - [LinkedIn](https://www.linkedin.com/in/stenremmelg/) 
 - [Instagram](https://www.instagram.com/steniinsta/)
+- [sten.remmelg@gmail.com](mailto:sten.remmelg@gmail.com)
+
+[Support](https://buy.stripe.com/5kAdUzcvT1OL6be5kl) my activities! 
