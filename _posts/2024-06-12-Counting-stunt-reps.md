@@ -1,17 +1,17 @@
 ---
-title: "Counting-stunt-reps"
+title: "Counting stunt reps"
 date: 2024-06-12
 ---
 
 # A Little Problem
 
-> **I do not know how many stunts I usually do in a stunt session**
+> I do not know how many stunts I usually do in a stunt session
 
 So I thought, lets find out! Should be easy enough.
 
 # The Goal
 
-> **Count how many stunt sequences I do in a given session**
+> Count how many stunt sequences I do in a given session
 
 # TL;DR
 
