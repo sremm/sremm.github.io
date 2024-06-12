@@ -40,11 +40,11 @@ With the files processed I had a look. Analyzed a few signals to see if it is cl
 
 The Y graph showed a clear signal for the stunt sequences, where there is clear movement up and down.
 
-![stunt-sequence-y-graph](./assets/img/2024-06-12-Counting-stunt-reps/y-graph-example.png)
+![stunt-sequence-y-graph](/docs/assets/img/2024-06-12-Counting-stunt-reps/y-graph-example.png)
 
 For the FHSU drill the X coordinate was actually better. As here the flyer goes to one side and then to the other. First the two lines are separate and then they come together on X graph, as the flyer approaches the base again.
 
-![fhsu-drill-x-and-y-graph](./assets/img/2024-06-12-Counting-stunt-reps/fhsu-x-y-example.png)
+![fhsu-drill-x-and-y-graph](/docs/assets/img/2024-06-12-Counting-stunt-reps/fhsu-x-y-example.png)
 
 ## Counting the sequences
 
@@ -92,11 +92,11 @@ Along the way I made some extra observations.
 
 In some files there were these clear lines going across the graph.
 
-![background-people-plot](./assets/img/2024-06-12-Counting-stunt-reps/background-people.png)
+![background-people-plot](/docs/assets/img/2024-06-12-Counting-stunt-reps/background-people.png)
 
 So I looked at the image overlayed with keypoints.
 
-![background-people-image](./assets/img/2024-06-12-Counting-stunt-reps/background-people-2.png)
+![background-people-image](/docs/assets/img/2024-06-12-Counting-stunt-reps/background-people-2.png)
 
 Turns out tracked the people in the background walking by. 
 
@@ -106,7 +106,7 @@ As the plotted keypoints were for all persons with score over 0.5, which is a fa
 
 As we usually did longer sequences, then a failed toss becomes clearly different on the Y plot. Marked with red in the below image.
 
-![failed-toss](./assets/img/2024-06-12-Counting-stunt-reps/failed_toss.png)
+![failed-toss](/docs/assets/img/2024-06-12-Counting-stunt-reps/failed_toss.png)
 
 ### Different start distance in FHSU drill
 
@@ -114,7 +114,7 @@ In the FHSU Drill X-graph we can see that there are some reps, where the flyer w
 
 On the image I marked two distances in green, and the red marking an approximate difference between the two.
 
-![fhsu-start-distance](./assets/img/2024-06-12-Counting-stunt-reps/fhsu-start-distance.png)
+![fhsu-start-distance](/docs/assets/img/2024-06-12-Counting-stunt-reps/fhsu-start-distance.png)
 
 
 # Thats a wrap
