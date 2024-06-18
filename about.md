@@ -11,8 +11,11 @@ With a background in judo and cheerleading, I've developed an appreciation for m
 Now, I channel that passion into my work, utilizing engineering to delve deeper into understanding human movement and exploring ways to disseminate that knowledge to individuals.
 
 📫 Hit me up if you feel like it! 
+
+On social.
 - [LinkedIn](https://www.linkedin.com/in/stenremmelg/) 
 - [Instagram](https://www.instagram.com/steniinsta/)
-- [sten.remmelg@gmail.com](mailto:sten.remmelg@gmail.com)
 
-[Support](https://buy.stripe.com/5kAdUzcvT1OL6be5kl) my activities! 
+Or by email [sten.remmelg@gmail.com](mailto:sten.remmelg@gmail.com).
+
+If you like what I do, you can [support my activities](https://buy.stripe.com/5kAdUzcvT1OL6be5kl)! 
