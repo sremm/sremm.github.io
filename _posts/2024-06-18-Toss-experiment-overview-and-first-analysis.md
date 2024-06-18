@@ -1,9 +1,8 @@
 ---
-title: "Toss Experiment: First Analysis"
+title: "Toss Experiment: Overview and First Analysis"
 date: 2024-06-18
 ---
 
-# Toss Experiment: Overview and First Analysis
 
 In May I recorded some data with fellow cheerleaders. And have now been working to get the data to a format suitable for all kinds of analysis.
 
