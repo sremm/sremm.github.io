@@ -87,9 +87,11 @@ For example, lets have a look at how the pelvis moves during a toss prep.
 
 ![toss-prep-gif](/docs/assets/img/2024-06-18-Toss-experiment-overview-and-first-analysis/toss-prep.gif)
 
-The pelvis moves down and up, and then down again during the pop off. And if we plot the vertical movement in a timeseries graph, it looks like this.
+The pelvis moves down and up, and then down again during the pop off. And if we plot the vertical movement in a time series graph, it looks like this.
 
 ![pelvis-position](/docs/assets/img/2024-06-18-Toss-experiment-overview-and-first-analysis/pelvis-position.png)
+
+Here we want to see the maximum value as high as possible, it is the direct representation of the height. 
 
 # The Events
 
@@ -120,7 +122,7 @@ The second graph I want to introduce is the vertical velocity of the flyers pelv
 
 ![pelvis-pos-and-vel](/docs/assets/img/2024-06-18-Toss-experiment-overview-and-first-analysis/pelvis-velocity.png)
 
-In my opinion the more interesting part is where I have also annotated all the events, except the more arbitrary start and end. So lets zoom in. Here I have also aligned the axis so that 0 velocity and 0 position (normalised to flyers hip height) are aligned.
+Since we want to maximize the height, we care about everything that happens before peak height is achieved. That is where I have also annotated all the events, except the more arbitrary start and end. So lets zoom in. Here I have also aligned the axis so that 0 velocity and 0 position (normalised to flyers hip height) are aligned.
 
 ![pelvis-pos-vel-zoomed](/docs/assets/img/2024-06-18-Toss-experiment-overview-and-first-analysis/pelvis-pos-vel-zoomed.png)
 
