@@ -1,5 +1,5 @@
 ---
-title: "Toss Experiment: Overview and First Analysis"
+title: "Toss Experiment: How to maximize toss height?"
 date: 2024-06-18
 ---
 
@@ -10,7 +10,7 @@ To make the experiment more valuable. I will also describe the data and what it 
 
 ## TL;DR
 
-The more you can generate force in the beginning, from the moment the flyer starts to move up, the better.
+The more you can generate force in the beginning, from the moment the flyer starts to move up, the better. The first part sets the potential for the toss height.
 
 Skip [here](#maximizing-toss-height) to learn more about how this data can help you understand how to maximize toss height gains.
 
