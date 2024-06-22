@@ -7,6 +7,9 @@ author:
 description: >
   Writings about analysis experiments in cheer stunting and tumbling, as well as tech related related topics around the same area.
 
+header_pages:
+  - contact.md
+
 minima:
   skin: dark
 
