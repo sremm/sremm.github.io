@@ -1,2 +1,16 @@
-// Placeholder to allow defining custom styles that override everything else.
-// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+.cta-button {
+    background-color: #2196F3; /* Blue background */
+    color: white; /* White text */
+    padding: 14px 25px; /* Some padding */
+    text-align: center; /* Centered text */
+    text-decoration: none; /* No underline */
+    display: inline-block; /* Necessary for buttons */
+    border: none; /* No border */
+    border-radius: 4px; /* Rounded corners */
+    font-size: 16px; /* Larger font size */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+.cta-button:hover {
+    background-color: #1976D2; /* Darker shade of blue on hover */
+}
