@@ -1,5 +1,13 @@
+/* Special stuff for the home.html*/
+
+.home-page-heading {
+    margin-top: 20px; /* Adjust the value as needed */
+    margin-bottom: 20px; /* Provides space below the heading */
+  }
+  
+
 .cta-button {
-    background-color: #2196F3; /* Blue background */
+    background-color: #3346dd; /* Blue background */
     color: white; /* White text */
     padding: 14px 25px; /* Some padding */
     text-align: center; /* Centered text */
@@ -12,7 +20,15 @@
 }
 
 .cta-button:hover {
-    background-color: #1976D2; /* Darker shade of blue on hover */
+    background-color: #202b7c; /* Darker shade of blue on hover */
+}
+
+/* Special styles for home-cta-button */
+.home-cta-button {
+    @extend .cta-button; /* Inherits styles from cta-button */
+    margin-top: 20px; /* Provides space above the button */
+    margin-bottom: 20px; /* Adjust the value as needed for space below the button */
+    /* Add any other specific styles for home-cta-button here */
 }
 
 
