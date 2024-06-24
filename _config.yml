@@ -9,7 +9,6 @@ description: >
 
 header_pages:
   - contact.md
-  - more.md
 
 minima:
   skin: dark
