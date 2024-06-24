@@ -4,7 +4,7 @@ title: Contact
 
 👋 Hi, I’m Sten Remmelg.
 
-📫 If you feel like it, reach out! 
+📫 Reach out! 
 
 On social.
 - [LinkedIn](https://www.linkedin.com/in/stenremmelg/) 
