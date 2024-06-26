@@ -43,7 +43,7 @@ As a collective, they give some overview of the characteristics of the graphs.
 
 In order to also determine what is better, we need to choose what is important to us right now.
 
-For the sake of this blog post, lets just take the **maximum toss height as the goal**. And look at how the metrics change based on the type of dip strategy used.
+For the sake of this blog post, lets just take the **maximum toss height as the goal**, and consider the rep successful if it did not drop. With this in mind, we can look at how the metrics change based on the type of dip strategy used.
 
 Thinking more broadly there are other very important things that we ignore completely in this analysis.
 
@@ -51,7 +51,37 @@ For example we could toss high, but still fail to catch. The alignment of the fl
 
 Even subjective measures can help. As a coach do not underestimate the power of asking how a stunt felt. It might reveal things you cannot see by just looking or analyzing a video.
 
-# Maximum Height vs Dip Depth
+# Dip Depth vs Maximum Height
+
+First lets have a look at the flyers dip depth for each execution.
+The no-base attempts, are [counter-movement jumps (CMJ)](https://www.scienceforsport.com/countermovement-jump-cmj/)
+
+![dip-depth-all](dip-depth-all.png)
+
+In the data some groups form. 
+
+The points high up (circled in red), with close to zero dip depth, are the deadtosses. 
+There the flyer does not dip at all.
+
+The ones in the middle (circled in white) are the shallow dips, where the flyer was instructed to dip very little.
+
+And the ones in the bottom (circled in blue) are all the others, including where the flyers were instructed to dip deep.
+
+![dip-depth-all-groups](dip-depth-all-groups.png)
+
+Notice also that indeed when the flyers did CMJs then the dip depth is more like the shallow dip. Which is usually the case, when people are instructed to jump as high as possible, they do not dip down as low as possible.
+
+![cmj-mini-dip-similarity](cmj-mini-dip-similarity.png)
+
+### An error found in deep dip example
+
+Here is an example of an error that can happen when using IMU base motion capture. It is hard to determine, where the surface starts and ends.
+
+Here we see how the algorithm that detected surface level, made a mistake. And therefor the pelvis position data was also off for this example. Likely the velocity as well.
+
+<video controls src="error-in-position.mp4" title="Error in position"></video>
+
+A from the reference videos, the two attempts looked the same in regards to lowest position, but the metric was off, so I investigated.
 
 .... show how dip depth and maximum height correlate
 
