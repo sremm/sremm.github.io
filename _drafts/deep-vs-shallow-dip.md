@@ -51,7 +51,7 @@ For example we could toss high, but still fail to catch. The alignment of the fl
 
 Even subjective measures can help. As a coach do not underestimate the power of asking how a stunt felt. It might reveal things you cannot see by just looking or analyzing a video.
 
-# Dip Depth vs Maximum Height
+# Dip Depth vs Toss Height
 
 First lets have a look at the flyers dip depth for each execution.
 The no-base attempts, are [counter-movement jumps (CMJ)](https://www.scienceforsport.com/countermovement-jump-cmj/)
