@@ -14,6 +14,10 @@ The more you can generate force in the beginning, from the moment the flyer star
 
 Skip [here](#maximizing-toss-height) to learn more about how this data can help you understand how to maximize toss height gains.
 
+### Explore the data yourself
+
+The data from the whole experiment is visible in [this web app](https://stunt-analysis.streamlit.app/), best viewed on a larger screen (eg. laptop).
+
 # The data that was captured
 
 To provide some context, here is a description of how the data was captured, and what data did we get from it.

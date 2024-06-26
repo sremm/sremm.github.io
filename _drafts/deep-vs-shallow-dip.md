@@ -10,7 +10,9 @@ A deeper dip can help give some extra height, it did for these athletes. But ext
 
 ... time to syncronize ...
 
-...
+### Explore the data yourself
+
+The data from the whole experiment is visible in [this web app](https://stunt-analysis.streamlit.app/), best viewed on a larger screen (eg. laptop).
 
 # Numeric Metrics
 
@@ -48,6 +50,10 @@ Thinking more broadly there are other very important things that we ignore compl
 For example we could toss high, but still fail to catch. The alignment of the flyer could play a big role there. And we could definitely list out even more factors that we might want to focus on. 
 
 Even subjective measures can help. As a coach do not underestimate the power of asking how a stunt felt. It might reveal things you cannot see by just looking or analyzing a video.
+
+# Maximum Height vs Dip Depth
+
+.... show how dip depth and maximum height correlate
 
 # Ideas to work on
 ... takes data from all deep dip and all shallow dip
