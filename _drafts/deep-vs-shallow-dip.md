@@ -6,7 +6,48 @@ Remember that we are dealing with data from a small sample size. Also that these
 
 ... will do some analysis before writing this ...
 
+A deeper dip can help give some extra height, it did for these athletes. But extra height is not the only thing that matters.
 
+... time to syncronize ...
+
+...
+
+# Numeric Metrics
+
+In order to compare many executions of the same movement. Lets choose some metrics that will allow us to but numbers into the comparison. A numeric metric is a single number, as opposed to a series of number that we have seen in a graph.
+
+The metrics:
+- From the pelvis position
+    - pre-dip jump height
+    - dip depth
+    - maximum height
+- From the pelvis velocity
+    - maximum velocity
+    - average velocity
+
+Lets look at a graph of pelvis position and velocity to see where these numbers come from.
+
+1) pre-dip jump height (pos)
+2) dip depth (pos)
+3) maximum velocity (vel)
+4) average velocity (vel)
+5) maximum height (pos)
+
+![pelvis-pos-vel-with-metrics](pelvis-pos-vel-with-metrics.png)
+
+As a collective, they give some overview of the characteristics of the graphs.
+
+## A definition for a better toss
+
+In order to also determine what is better, we need to choose what is important to us right now.
+
+For the sake of this blog post, lets just take the **maximum toss height as the goal**. And look at how the metrics change based on the type of dip strategy used.
+
+Thinking more broadly there are other very important things that we ignore completely in this analysis.
+
+For example we could toss high, but still fail to catch. The alignment of the flyer could play a big role there. And we could definitely list out even more factors that we might want to focus on. 
+
+Even subjective measures can help. As a coach do not underestimate the power of asking how a stunt felt. It might reveal things you cannot see by just looking or analyzing a video.
 
 # Ideas to work on
 ... takes data from all deep dip and all shallow dip
