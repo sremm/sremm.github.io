@@ -16,7 +16,7 @@ The data from the whole experiment is visible in [this web app](https://stunt-an
 
 # Numeric Metrics
 
-In order to compare many executions of the same movement. Lets choose some metrics that will allow us to but numbers into the comparison. A numeric metric is a single number, as opposed to a series of number that we have seen in a graph.
+In order to compare many executions of the same movement. Lets choose some metrics that will allow us to put numbers into the comparison. A numeric metric is a single number, as opposed to a series of number that we have seen in a graph.
 
 The metrics:
 - From the pelvis position
@@ -43,11 +43,11 @@ As a collective, they give some overview of the characteristics of the graphs.
 
 In order to also determine what is better, we need to choose what is important to us right now.
 
-For the sake of this blog post, lets just take the **maximum toss height as the goal**, and consider the rep successful if it did not drop. With this in mind, we can look at how the metrics change based on the type of dip strategy used.
+For now, lets take the **maximum toss height as the goal**, and consider the rep successful if it was caught. With this in mind, we can look at how the metrics change based on the type of dip strategy used.
 
-Thinking more broadly there are other very important things that we ignore completely in this analysis.
+Thinking more broadly there are other important things that we ignore completely in this analysis.
 
-For example we could toss high, but still fail to catch. The alignment of the flyer could play a big role there. And we could definitely list out even more factors that we might want to focus on. 
+For example we could toss high, but still fail to catch. The alignment of the flyer could play a big role there. We could list out even more factors that we might want to focus on. 
 
 Even subjective measures can help. As a coach do not underestimate the power of asking how a stunt felt. It might reveal things you cannot see by just looking or analyzing a video.
 
@@ -69,7 +69,9 @@ And the ones in the bottom (circled in blue) are all the others, including where
 
 ![dip-depth-all-groups](dip-depth-all-groups.png)
 
-Notice also that indeed when the flyers did CMJs then the dip depth is more like the shallow dip. Which is usually the case, when people are instructed to jump as high as possible, they do not dip down as low as possible.
+As all the flyers were used to dipping deeper, they did so when not instructed to do otherwise.
+
+Also notice that when the flyers did CMJs then the dip depth is more like the shallow dip. Which is usually the case, when people are instructed to jump as high as possible, they do not dip super deep.
 
 ![cmj-mini-dip-similarity](cmj-mini-dip-similarity.png)
 
