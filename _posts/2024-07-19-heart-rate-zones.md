@@ -27,7 +27,7 @@ About 1-2% in zone 5 and with zones 4-5 summed up, still well under 20%, with zo
 
 If I were to only account for specific cardio trainings, the numbers would be different. Not sure if all trainings can be considered equal from the effects for cardiovascular fitness, when observed from the HR perspective.
 
-Keep in mind that percentage of time in different zones is not the whole story. Total time spent training is also important. Just spending 1h a week training does not yield the same results as spending 10h a week training. If one wants maximum training benefit from as little time as possible, then training would likely look different. So If I would solely want to focus on my cardiovascular fitness, I could also increase cardio training time in total.
+Keep in mind that percentage of time in different zones is not the whole story. Total time spent training is also important. Just spending 1h a week training does not yield the same results as spending 10h a week training. If I would want to focus on my cardiovascular fitness, I could also increase cardio training time in total. If one wants maximum training benefit from as little time as possible, then training would likely look different. 
 
 # Yearly view - All sports
 
