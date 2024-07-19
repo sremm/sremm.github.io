@@ -21,11 +21,13 @@ That said, I still want my cardio training to be efficient. At this point in tim
 
 # TL;DR
 
-I definitely don't spend too much time in the higher intensity zones. about 1-2% in the real high zone (red) and mostly still under 20% together with the yellow zone as defined by polar. So looking at the data, I could benefit from doing some more intense trainings from the heart rate perspective. Worth experimenting.
+Do I adhere to the 80/20 principle in endurance training? By the looks of it, no I don't.
+
+About 1-2% in zone 5 and with zones 4-5 summed up, still well under 20%, with zones defined by polar. So looking at the data, I might consider doing some more intense trainings from the heart rate perspective. Worth experimenting.
 
 If I were to only account for specific cardio trainings, the numbers would be different. Not sure if all trainings can be considered equal from the effects for cardiovascular fitness, when observed from the HR perspective.
 
-Keep in mind that percentage of time in different zones is not the whole story. Total time spent training is also important. Just spending 1h a week training does not yield the same results as spending 10h a week training. If one wants maximum training benefit from as little time as possible, then training would likely look different.
+Keep in mind that percentage of time in different zones is not the whole story. Total time spent training is also important. Just spending 1h a week training does not yield the same results as spending 10h a week training. If one wants maximum training benefit from as little time as possible, then training would likely look different. So If I would solely want to focus on my cardiovascular fitness, I could also increase cardio training time in total.
 
 # Yearly view - All sports
 
