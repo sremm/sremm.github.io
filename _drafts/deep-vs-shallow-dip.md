@@ -1,7 +1,7 @@
 
 # Ideas to work on
 
-... compare max height metric (need to add it)
+... compare max height metric
 ... toss height vs dip depth
 ... compare max vel metric
 ... compare average velocity metric ()
@@ -68,11 +68,19 @@ Even subjective measures can help. As a coach do not underestimate the power of 
 ## Dip Depth
 
 First lets have a look at the flyers dip depth for each execution.
-The red no-base attempts, are [counter-movement jumps (CMJ)](https://www.scienceforsport.com/countermovement-jump-cmj/)
+
+Defined by this calculation:
+- Dip Depth = Hips position at lowest point - Hips position while standing
+
+Negative numbers mean deeper dip. Zero means no dip.
 
 ![dip-depth-all](dip-depth-all.png)
 
-In the data some groups form. 
+Note that the red no-base attempts, are [counter-movement jumps (CMJ)](https://www.scienceforsport.com/countermovement-jump-cmj/)
+
+Looking at the graph, we see some groups form in the data. Which I have highlighted in the image below
+
+![dip-depth-all-groups](dip-depth-all-groups.png)
 
 The points high up (circled in red), with close to zero dip depth, are the deadtosses. 
 There the flyer does not dip at all.
@@ -81,7 +89,6 @@ The ones in the middle (circled in white) are the shallow dips, where the flyer 
 
 And the ones in the bottom (circled in blue) are all the others, including where the flyers were instructed to dip deep.
 
-![dip-depth-all-groups](dip-depth-all-groups.png)
 
 As all the flyers were used to dipping deeper, they did so when not instructed to do otherwise. Which is also visible in the plot, as all the other attempts fall into this group.
 
@@ -91,9 +98,32 @@ Also notice that when the flyers did CMJs then the dip depth is more like the sh
 
 ## Toss Height
 
-... graphs and comments just like dip depth
+Now lets have a look at the same type of graph for the toss height.
+
+As defined by:
+- Toss Height = Hips position highest point before catch - Hips position while standing
+
+Higher numbers mean higher toss.
+
+![Maximum pelvis vertical position](max_pelvis_vertical_pos_all.png)
+
+Now we can immediately see that the CMJs are not even close to the tosses. So we can see that in this skill, removing the base from the toss part would make it really difficult to catch the flyer onto ones hands :D. Which would be really fun and impressive to see someone do.
+
+-- image to showcase difference in graph
+
+Zooming in a bit we also see, that tosses with flyer 2 were generally higher than with flyer 1.
+
+-- image remove no base and draw line to show difference
+
+But within a single base and flyer, there are no clear groups as there was on the dip depth metric graph. There is a more general spread of toss heights. 
+
+Just hovering on a few top and bottom ones we can see which ones are which. This reveals that the lowest ones are the deadtosses and deadtoss attempts. The highest ones varied.
+
+In order to get a better idea of the relation between the two metrics. Lets gather them in a single plot.
 
 ## Dip Depth vs Toss Height
+
+So in this next plot we will see Dip Depth on one axis and Toss Height on the other. Each point represents the same execution of the stunt.
 
 .... show how dip depth and maximum height correlate
 --- implement one metric vs other metric
