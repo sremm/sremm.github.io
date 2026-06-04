@@ -16,10 +16,8 @@ If you like what I do, you can [support my activities](https://buy.stripe.com/5k
 
 ## About me
 
-As a sports enthusiast and former athlete, I navigate the intersections of sports, science, and technology, driven by a curiosity for the intricacies of the human body. 
+As a sports enthusiast and athlete in functional fitness & crossfit, I navigate the intersections of sports, science, and technology, driven by a curiosity for the intricacies of the human body. 
 
 With a background in judo and cheerleading, I've developed an appreciation for movement and its intricate relationship with the mind. 
 
 Now, I channel that passion into my work, utilizing engineering to delve deeper into understanding human movement and exploring ways to disseminate that knowledge to individuals.
-
-

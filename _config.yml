@@ -5,7 +5,7 @@ author:
   email: sten.remmelg@gmail.com
 
 description: >
-  Writings about analysis experiments in cheer stunting and tumbling, as well as tech related related topics in fitness and health in general.
+  Writings about analysis experiments in sports, as well as tech related topics around health and fitness in general.
 
 header_pages:
   - contact.md
@@ -14,6 +14,9 @@ minima:
   skin: dark
 
   social_links:
-   - { platform: instagram,      user_url: "https://www.instagram.com/steniinsta/" }
-   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/stenremmelg/" }
-   - { platform: github,         user_url: "https://github.com/sremm"}
+    - { platform: instagram, user_url: "https://www.instagram.com/steniinsta/" }
+    - {
+        platform: linkedin,
+        user_url: "https://www.linkedin.com/in/stenremmelg/",
+      }
+    - { platform: github, user_url: "https://github.com/sremm" }
