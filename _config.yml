@@ -20,3 +20,11 @@ minima:
         user_url: "https://www.linkedin.com/in/stenremmelg/",
       }
     - { platform: github, user_url: "https://github.com/sremm" }
+
+# Local tooling, not site content. (Listing exclude replaces Jekyll 3's defaults, so they are repeated here.)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - serve.sh
