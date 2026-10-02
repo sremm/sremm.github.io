@@ -20,11 +20,16 @@ I started building some tooling, so I could get my split times. Visualse where i
 
 I definitely learned a thing or two. Being young to the sport, I did not have the expereince to know where a workout could be won or lost.
 
-For example, looking at the [26.2 CF Open workout](https://games.crossfit.com/workouts/open/2026/2):
+For example, looking at the [26.2 CF Open workout](https://games.crossfit.com/workouts/open/2026/2)
+
+```
+26.2 CF Open workout:
 - 80ft OH Walking Lunge -> 20 Alt. DB Snatch -> 20 Pull Ups
 - 80ft OH Walking Lunge -> 20 Alt. DB Snatch -> 20 Chest to Bar Pull-Ups
 - 80ft OH Walking Lunge -> 20 Alt. DB Snatch -> 20 Ring Muscle Ups
 
+22.5kg dumbbell
+```
 
 I was contemplating on how to split the lunges, snatches, and pull-up variants. Without realizing the workout was all about the RMU.
 
@@ -40,22 +45,22 @@ So bit by bit I started and evolved what I could do with it.
 
 By now I have spent a lot of time building the tooling. Partially driven by the addictive nature of building software with tools like [Claude Code](https://claude.com/product/claude-code).
 
-First analysis were just text dumps, as seen above. Then as the data was there I started playing with dashboard style visuals. Earlier visual of the 26.1 CF Open workout analysis.
+First analysis were just text dumps, as seen above. Then as the data was there I started playing with dashboard style visuals. Earlier visual of the 26.2 CF Open workout analysis.
 
-![26.1](26.1.png)
+![26.2-data](26.2-data.png)
 
 Step by step I was building parts of the system with the goal of making it usable for me in a everyday setting, without too much extra effort.
 
 Today, I am recording all my CrossFit style workouts, as well as most of my strenght training, weightlifting and skill work sessions. Feeding the videos trough what is currently called the [Wod Capture ](https://wod-capture.uk/) system.
 
 
-!!! ENTER NEW VERSION AND LINK TO LIVE REPORT AND COMPARISON
-
 ## What is useful
 
 The main value of it for me. Is to validate or in-validate -  how I felt I did in a workout, what the workout was really about. Over time, this helps me hone in my own gut feeling about how to attack a workout.
 
-So by just recording and uploading a workout, I can see how well I was able to keep my pace in a long workout.
+So by just recording and uploading a workout, I can see how well I was able to keep my pace in a workout.
+
+### Seeing how much i slowed down
 
 Recently I tried out the 2026 French Throwdowns Qualifier workout.
 [FTD26 Qualifier Workout 1](https://competitioncorner.net/events/french-throwdown-2026-online-qualifiers/workouts?f=individual&d=123382&w=114987)
@@ -65,16 +70,24 @@ Recently I tried out the 2026 French Throwdowns Qualifier workout.
 Even though I did pace it, there was some slowdown.
 ![FTD26-q1](FTD26-q1.png)
 
-When I looked at the workout, I was curious to see how my RMU now holds. I did feel that the row will take up quite some time.
+When I looked at the workout, I felt that the row will take up quite some time.
 
 ![FTD26-q1-per-move.png](FTD26-q1-per-move.png)
 
-And from looking at the numbers, very much so. Top scores for elite were at 10 rounds, while i managed 7.5 rounds. So I am sure they were rowing a lot faster.
+And from looking at the numbers, the row took the majority of the time. 
+
+I was also curious as to how my RMUs and thrusters would hold here. At this pace, I did still keep all rounds Unbroken. Overall the pace held quite steady for those, but some seconds here and there add up.
+
+![rmu](rmu.png)
+![thruster](thruster.png)
+
+Top scores for elite were at 10 rounds, while i managed 7.5 rounds. So I am sure they were rowing a lot faster and likely had fast transitions and faster cycle time on the thrusters
 
 ### Building confidence for competition workout strategy
 
 In the summer there was the [Fittest in Tartu](https://www.fittestintartu.ee/) competition.
 
+```
 Workout 6:
 
 FOR TIME 6:00
@@ -86,9 +99,10 @@ FOR TIME 6:00
 - 32 Toes to Bar
 
 Bar - 70kg for RX men.
+```
 
 Snatches - work doing touch and go? TTB - how will i hold on?
 
-The results on [Wod Capture](https://www.wod-capture.uk/r/3ff15c9a-51f1-4f03-a50b-5859a88ac7db). After doing it, I was sure there was no point in not going singles in the snatches. Since TTB was the part where it took most time, and where I could potentially blow up.
+After doing it and checking out the report ([Wod Capture](https://www.wod-capture.uk/r/3ff15c9a-51f1-4f03-a50b-5859a88ac7db)), I was sure there was no point in not going singles in the snatches. Since TTB was the part where it took most time, and where I could potentially blow up.
 
 ![fittest-6](Fittest-6.png)
